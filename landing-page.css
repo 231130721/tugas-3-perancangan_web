@@ -1,0 +1,237 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    width: 100%;
+}
+nav{
+    width: 100%;
+    margin-top: 0px;
+    padding-bottom: 10px;
+}
+.main-1{
+    width: 100%;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    padding: 90px;
+}
+ul li{
+    display: inline;
+    list-style: none;
+    float: right;
+    margin-bottom: 40px;
+}
+article::before
+article::after{
+    content: "";
+    display: table;
+}
+article::after{
+    clear: both;
+}
+article{
+    background-color: pink;
+    z-index: 9999;
+    margin-top: -20px;
+
+}
+.donut{
+    width: 200px;
+    height: 200px;
+}
+.main-1{
+    width: 100%;
+    height: auto;
+    display: flex;
+}
+article{
+    padding: 50px 0;
+    width: 100%;
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-size: 50px;
+    top: 0;
+    text-align: center;
+}
+article{
+    padding: 20px;
+}
+.content{
+    font-size: 12px;
+    justify-content: left;
+}
+.art-left{
+    float: left;
+    width: 50%;
+}
+.art-right{
+    float: right;
+    width: 50%;
+}
+span{
+    color: white;
+}
+.best-seller{
+    text-align: center;
+}
+.risoles, .dimsum{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin: 15px 15px;
+}
+aside{
+    height: auto;
+    background-color: rgba(0, 0, 0, 0.504);
+    width: 250px;
+    border-radius: 50px;
+    padding: 2px;
+}
+
+.best-1{
+    float: left;
+    top: 0;
+
+}
+.best-2{
+    float: right;
+    top: 0;
+}
+button{
+    padding: 10px;
+    border-radius: 40px;
+    color: white;
+    background-color: black;
+    box-shadow: 5px 5px 8px white;
+}
+.right{
+    float: right;
+    margin-right: 15px;
+    font-size: 15px;
+    color: white;
+}
+/* main 2 styling */
+.art-header{
+    background-color: pink;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    width: 97%;
+}
+h2{
+    color: white;
+    text-align: center;
+}
+.main-1{
+    width: 100%;
+}
+.section-atas{
+    width: 100%;
+    display: flex;
+    box-sizing: border-box;
+    justify-content: space-between;
+    margin-top: 200px;
+}
+.satu, .dua, .tiga{
+    width: 30%;
+}
+.atas{
+    margin-left: 17%;
+}
+.bawah{
+    margin-left: 30%;
+}
+.satu, .dua, .tiga{
+    display: flex;
+    float: left;
+}
+.empat, .lima{
+    display: flex;
+    float: left;
+    padding: 20px;
+}
+.judul{
+    width: 100%;
+    margin-top: 600px;
+    position: static;
+    text-align: center;
+    color: white;
+    height: 50px;
+    line-height: 50px;
+}
+.maping{
+    width: 100%;
+    height: 1000px;
+    background-color: pink;
+}
+h3{
+    background-color: pink;
+}
+.map{
+    margin-top: 20px;
+    padding: 20px;
+    width: 80%;
+    height: 500px;
+}
+hr{
+    color: whitesmoke;
+    width: 100%;
+    height: 10px;
+    background-color: aliceblue;
+}
+
+
+/* footer styling */
+
+footer{
+    width: 100%;
+    height: 360px;
+    background-color: black;
+    color: white;
+}
+.info-kebijakan{
+    /* margin-top: 100px; */
+    float: left;
+    text-align: center;
+    margin-left: 0px;
+    margin-right: 450px;
+    position: relative;
+
+}
+.info-syarat{
+    float: left;
+    text-align: center;
+    margin-left: 355px;
+    position: relative;
+    margin-right: 150px;
+}
+.info-toko{
+    float: none;
+    text-align: center;
+    margin-right: 150px;
+    margin-top: 50px;
+}
+.info-social{
+    /* float: right; */
+    /* text-align: center; */
+    margin-right: 150px;
+    float: right;
+    margin-top: -130px;
+}
+.dapur-kepo{
+    margin-left: 110px;
+    /* padding-top: 50px; */
+    top: 110px;
+    position: relative;
+}
+.box-satu{
+    margin-top: 150px;
+    margin-left: 150px;
+}
+.social-right, .social{
+    float: right;
+    margin-right: 25px;
+    margin-top: -20px;
+}
