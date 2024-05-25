@@ -17,11 +17,13 @@ nav{
 }
 a{
     text-decoration: none;
+    list-style: none;
+    color: black;
+    font-weight: bold;
 }
 .judul{
     text-align: center;
     position: relative;
-    /* top: -50px; */
     font-size: 50px;
     top: -90px;
     color: aliceblue;
