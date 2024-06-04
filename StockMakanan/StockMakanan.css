@@ -1,0 +1,83 @@
+a{
+    text-decoration: none;
+    color: black;
+}
+.lainnya{
+    float: right;
+    margin-top: -80px;
+    margin-left: 0px;
+    margin-right: 155px;
+    padding: -5px;
+}
+.dapur{
+    color: pink;
+    margin-left: 550px;
+}
+li{list-style-type: none;
+    margin: auto;
+    float: left;
+    margin: 30px;
+    padding: 20px;
+    margin-top: -10px;
+}
+.tambahan{
+    margin-left: 80px;
+    margin-top: -80px;
+}
+.profil{
+    margin-right: 200px;
+    margin-left: -60px;
+    float: right;
+    margin-top: -80px;
+}
+.kembali{
+    margin-left: 80px;
+    margin-right: -40px;
+}
+.stok{
+    text-align: center;
+    margin-left: -38px;
+}
+.box{
+    margin-left: 230px;
+    margin-top: -280px;
+}
+.tersisa{
+    font-weight: bold;
+    font-size: 18px;
+    margin-top: 80px;
+}
+.box1{
+    margin-top: 50px;
+    background-color: rgb(4, 128, 0);
+    height: 40px;
+    width: 223px;
+    text-align: center;
+    border-radius: 30px;
+    justify-content: center;
+    align-items: center; 
+    display: flex;
+}
+.pcs{
+    font-size: 18px;
+    margin-top: -19px;
+    font-weight: bold;
+    margin-left: -45px;
+}
+.tambah1{
+    margin-top: -36px;
+    margin-left: 80px;
+}
+.box3{
+    margin-top: 40px;
+    margin-left: 123px;
+}
+img{
+    width: 200px;
+}
+.besar{
+    margin-left: 380px;
+}
+.kurang{
+    margin-left: -120px;
+}
