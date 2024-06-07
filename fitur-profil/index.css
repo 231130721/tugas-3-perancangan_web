@@ -1,0 +1,58 @@
+body{
+    width: auto;
+    width: 100%;
+    margin-left: 0;
+    margin-right: 0;
+}
+
+header > img{
+    margin: 30px 45.7%;
+}
+h2{
+    text-align: center;
+}
+
+/* main top */
+.top{
+    margin: 25px auto;
+    background-color: pink;
+    height: 200px;
+    width: 1000px;
+    padding: 50px;
+    border-radius: 50px;
+    box-shadow: 12px 10px rgba(0, 0, 0, 0.657);
+}
+.right{
+    float: right;
+    margin-left: 80%;
+    margin-top: -30px;
+}
+.jenis-kelamin{
+    margin-left: 20%;
+}
+p{
+    font-size: 21px;
+}
+.bottom{
+    background-color: pink;
+    height: 350px;
+    width: 1000px;
+    padding: 50px;
+    border-radius: 50px;
+    box-shadow: 12px 10px rgba(0, 0, 0, 0.657);
+    margin: 25px auto;
+}
+
+/* button0 */
+button{
+    border-radius: 20px;
+    background-color: red;
+    color: white;
+    padding: 10px;
+    border-style: none;
+    margin: 30px 41.7%;
+    height: 50px;
+    width: 200px;
+    font-size: 20px;
+    font-weight: bolder;
+}
