@@ -1,0 +1,107 @@
+a{
+    text-decoration: none;
+    color: black;
+}
+/* .body{ 
+    width: 100%;
+}
+nav{
+    width: 100%;
+    margin-top: 0px;
+    padding-bottom: 10px;
+}
+a{
+    text-decoration: none;
+    color: black;
+    padding: 90px;
+}
+ul li{
+    display: inline;
+    list-style: none;
+    float: right;
+    margin-bottom: 40px;
+}*/
+.lainnya{
+    float: right;
+    margin-top: -80px;
+    margin-left: 0px;
+    margin-right: 155px;
+    padding: -5px;
+}
+/*ul h1{
+    margin-left: 400px;
+    color: blue;
+}*/
+.dapur{
+    color: pink;
+    margin-left: 550px;
+}
+li{list-style-type: none;
+    margin: auto;
+    float: left;
+    margin: 30px;
+    padding: 20px;
+    margin-top: -10px;
+}
+.riwayat{
+    text-align: center;
+    margin-left: -38px;
+}
+.tambahan{
+    margin-left: 80px;
+    margin-top: -80px;
+}
+.profil{
+    margin-right: 200px;
+    margin-left: -60px;
+    float: right;
+    margin-top: -80px;
+}
+.kembali{
+    margin-left: 80px;
+    margin-right: -40px;
+}
+img{
+    float: left;
+    margin-top: 25px;
+    width: 200px;
+    height: 200px;
+    padding-left: 20px;
+}
+.box{
+    background-color: pink;
+    width: 45%;
+    height: 250px;
+    border: 1px;
+    padding: 1px;
+    margin-left: 355px;
+    border-radius: 25px;
+}
+/* .mochi{
+    margin-top: 25px;
+} */
+.hari{
+    margin-left: 370px;
+    padding: 10px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.tulisan{
+    margin-top: 36px;
+    margin-left: 230px;
+    line-height: 30px;
+    font-size: 19px;
+    font-family: 'Times New Roman', Times, serif
+}
+.bayar{
+    margin-top: -10px;
+    margin-left: 880px;
+    font-size: 17px;
+    color: rgb(43, 255, 0);
+    font-weight: bold;
+}
+.cash{
+    margin-left: 40px;
+    color: black;
+    margin-top: -10px;
+}

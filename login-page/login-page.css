@@ -4,10 +4,7 @@ body{
 }
 nav{
     width: 100%;
-    /* float: right; */
-    /* margin-right: 0%; */
     display: inline-flex;
-    /* margin-left: 100%; */
 }
 .header{
     font-size: 40px;
@@ -31,7 +28,6 @@ nav, .account{
     float: right;
     margin-left: 80%;
     padding: 20px;
-    /* top: 0; */
 }
 input{
     width: 40%;
@@ -65,7 +61,6 @@ button{
     border-style: none;
     border-radius: 10px;
 }
-/* right */
 .right{
     float: right;
     width: 50%;
@@ -76,8 +71,8 @@ button{
 }
 img{
     width: 520px;
-    margin-left: 110px;
-    margin-top: -950px;
+    margin-left: 90px;
+    margin-top: -910px;
     margin-bottom: 30px;
 }
 .left, .right{
