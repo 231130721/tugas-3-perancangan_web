@@ -7,8 +7,8 @@ nav{
     margin-top: 0px;
     padding-bottom: 50px;
 }
-.main-1{
-    width: 100%;
+.main-image{
+    margin-top: 30px;
 }
 a{
     text-decoration: none;
@@ -50,7 +50,7 @@ p{
     float: right;
     /* position: relative; */
     margin-left: 18%;
-    margin-top: -100px;
+    margin-top: -120px;
     justify-content: center;
     align-items: center;
 }
@@ -108,12 +108,16 @@ p{
 .sub-image{
     width: 50px;
     height: 30px;
-    margin-top: 5px;
+    margin-top: 7px;
+    margin-left: 2px;
+}
+.bottom-image{
+    margin-top: -30px;
 }
 b{
     line-height: 50px;
     float: right;
-    margin-right: 15px;
+    margin-right: 7px;
 }
 .harga{
     margin-bottom: 10px;
@@ -153,7 +157,7 @@ b{
     margin-left: 10%;
 }
 .bawah{
-    margin-left: 29%;
+    margin-left: 28%;
 }
 .satu, .dua, .tiga{
     display: flex;
