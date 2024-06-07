@@ -1,0 +1,116 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: pink;
+}
+nav{
+    font-weight: bold;
+    color: white;
+}
+ul li:hover{ 
+    background-color: wheat;
+    color: black;
+    display: block;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.lainnya{
+    float: right;
+    margin-top: -80px;
+    margin-left: 0px;
+    margin-right: 155px;
+    padding: -5px;
+}
+.dapur{
+    color: white;
+    margin-left: 550px;
+    text-shadow: 0px 2px black;
+}
+li{list-style-type: none;
+    margin: auto;
+    float: left;
+    margin: 30px;
+    padding: 20px;
+    margin-top: -10px;
+}
+.tambahan{
+    margin-left: 80px;
+    margin-top: -80px;
+}
+.profil{
+    margin-right: 200px;
+    margin-left: -60px;
+    float: right;
+    margin-top: -80px;
+}
+.kembali{
+    margin-left: 80px;
+    margin-right: -40px;
+}
+.box{
+    width: 600px;
+    height: 350px;
+    background-color: #ffe2df;
+    border-radius: 30px;
+    margin-left: 26%;
+    box-shadow: 0px 2px 4px #2e2d2d;
+}
+.pesanan{
+    margin-left: 30px;
+    font-weight: bold;  
+    font-size: 18px;
+    padding: 20px;
+}
+.gambar{
+    margin-left: 15px;
+}    
+.box1{
+    margin-left: 270px;
+    margin-top: -283px;
+    font-size: 16px;
+    font-weight: bold;
+}
+.logo{
+    width: 50px;
+    height: 40px;
+    margin-top: -12px;
+    margin-left: -3px;
+}
+.bca{
+    margin-left: 50px;
+    margin-top: -32px;
+}
+.box4{
+    width: 100px;
+    height: 31px;
+    background-color: red;
+    color: white;
+    text-align: center;
+    border-radius: 15px;
+    line-height: 28px;
+    margin-left: 52%;
+    box-shadow: 0px 2px 2px black;
+    font-weight: bold;
+}
+.box5{
+    width: 100px;
+    height: 31px;
+    background-color: green;
+    color: white;
+    text-align: center;
+    border-radius: 15px;
+    line-height: 28px;
+    margin-left: 61%;
+    margin-top: -47px;
+    box-shadow: 0px 2px 2px black;
+    font-weight: bold;
+}
+.box3{
+    margin-left: 35px;
+    margin-top: -8px;
+}
+.gambar1{
+    margin-left: 17px;
+    margin-top: -14px;
+}
