@@ -8,6 +8,7 @@ body{
 header > img{
     margin: 30px 45.7%;
 }
+
 h2{
     text-align: center;
 }
@@ -22,17 +23,21 @@ h2{
     border-radius: 50px;
     box-shadow: 12px 10px rgba(0, 0, 0, 0.657);
 }
+
 .right{
     float: right;
-    margin-left: 80%;
-    margin-top: -30px;
+    margin-left: 70%;
+    margin-top: -35px;
 }
-.jenis-kelamin{
+
+/* .jenis-kelamin{
     margin-left: 20%;
-}
+} */
+
 p{
     font-size: 21px;
 }
+
 .bottom{
     background-color: pink;
     height: 350px;
