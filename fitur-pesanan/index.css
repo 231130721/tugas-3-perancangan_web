@@ -1,0 +1,59 @@
+body{
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    margin-top: 0px;
+}
+img{
+    width: 30px;
+    height: 30px;
+}
+h3{
+    float: right;
+    margin-right: 90%;
+    margin-top: 8px;
+}
+nav{
+    background-color: pink;
+    height: 50px;
+    padding: 25px;
+    border-radius: 0px 0px 30px 30px;
+}
+h1{
+    margin-right: 45%;
+    margin-top: -40px;
+    float: right;
+}
+
+/* main first*/
+.first{
+    margin: 0 auto;
+    width: 95%;
+    background-color: pink;
+    height: 200px;
+    border-radius: 25px;
+    font-size: 25px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+p{
+    padding: 20px;
+}
+.edit{
+    float: right;
+    margin-top: -220px;
+    font-size: 15px;
+    color: red;
+}
+.two{
+    width: 95%;
+    margin: 0 auto;
+}
+.risoles{
+    width: 100px;
+    height: 100px;
+}
+
+
+
