@@ -36,6 +36,7 @@ h1{
     font-size: 25px;
     font-weight: bold;
     margin-bottom: 20px;
+    box-shadow: 5px 5px grey;
 }
 p{
     padding: 20px;
@@ -46,14 +47,122 @@ p{
     font-size: 15px;
     color: red;
 }
+.risoles-img{
+    width: 200px;
+    height: 200px;
+}   
 .two{
     width: 95%;
     margin: 0 auto;
 }
+.two-right{
+    margin-right: 0;
+    float: right;
+}
 .risoles{
-    width: 100px;
-    height: 100px;
+    margin-top: 10px;
+    margin-right: 850px;
+    position: relative;
+}
+.harga{
+    margin-left: 235px;
+    margin-top: -200px;
+}
+.pengiriman{
+    margin-top: -40px;
+    margin-left: 234px;
+}
+    
+.estimate{
+    margin-left: 235px;
+    margin-top: -40px;
+    margin-bottom: 100px;
+}
+.two-right{
+    margin-top: -270px;
+}
+.quantity, .quantity-pay{
+    margin-top: -30px;
 }
 
+/* three styling */
+.three{
+    background-color: pink;
+    width: 95%;
+    margin: 0 auto;
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+    height: 350px;
+    font-weight: bolder;
+    border-radius: 10px;
+    box-shadow: 10px 2px grey;
+}
+.judul{
+    /* text-align: center; */
+    float: left;
+}
+.left, .right{
+    font-size: 20px;
+}
+.right{
+    float: right;
+    margin-left: 50%;
+    margin-top: -70px;
+}
 
-
+/* method styling */
+.method{
+    width: 95%;
+    margin: 0 auto;
+}
+.method > h2{
+    font-size: 30px;
+}
+ul li{
+    list-style: none;
+    display: inline-block;
+    font-weight: bold;
+}
+.img-1{
+    margin-left: 95%;
+    width: 40px;
+    height: 40px;
+    margin-top: -10px;
+}
+.bolder{
+    font-size: 20px;
+}
+.list-4{
+    margin-left: 20px;
+}
+footer{
+    margin-top: 20px;
+    background-color: pink;
+    height: 200px;
+}
+.total-left{
+    float: left;
+}
+.total-right{
+    float: right;
+}
+.total-left, .total-right{
+    padding: 50px;
+    font-weight: bolder;
+    font-size: 30px;
+}
+button{
+    width: 700px;
+    height: 50px;
+    position: absolute;
+    margin: 120px 8%;
+    color: white;
+    background-color: black;
+    font-weight: bold;
+    border-radius: 20px;
+}
+button:hover{
+    color: black;
+    background-color: red;
+    border-style: none;
+}
