@@ -1,0 +1,32 @@
+nav{
+    width: 100%;
+    text-align: center;
+}
+nav > h1{
+    font-size: 30px;
+}
+ul li{
+    list-style: none;
+    /* display: flexbox; */
+}
+.left{
+    width: 25px;
+    height: 25px;
+    margin-left: -30px;
+}
+.center{
+    float: none;
+    margin-left: 250px;
+    margin-top: 10px;
+    flex: 2;
+    font-size: 25px;
+    font-weight: bold;
+
+}
+.right{
+    margin-top: -20px;
+    float: right;
+}
+img{
+    margin-top: -12px;
+}
