@@ -6,21 +6,9 @@ nav{
     font-weight: bold;
     color: white;
 }
-a:hover{ 
-    background-color: #ffe2df;
-    color: black;
-    display: block;
-    width: 150px;
-    height: 40px; 
-    text-align: center;
-    line-height: 35px;
-    border-radius: 30px;
-    margin: 1px;
-    border: 2px;
-}
 li{
     display: block;
-   
+
 }
 a{
     text-decoration: none;

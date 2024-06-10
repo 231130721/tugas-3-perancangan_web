@@ -38,19 +38,19 @@ nav a:hover{
 }
 .satu{
     float: left;
-    margin-left: 30%;
+    margin-left: 27%;
     background-color: pink;
     color: white;
-    width: 150px;
+    width: 250px;
     border-radius: 10px;
     text-align: center;
 }
 .dua{
     float: right;
-    margin-right: 30%;
+    margin-right: 23%;
     background-color: pink;
     color: white;
-    width: 150px;
+    width: 250px;
     border-radius: 10px;
     text-align: center;
 }
@@ -60,14 +60,20 @@ nav a:hover{
 }
 .tiga{
     float: none;
-    margin-left: 45%;
+    margin-left: 42%;
     background-color: pink;
     color: white;
-    width: 150px;
+    width: 250px;
     border-radius: 10px;
     text-align: center;
     height: 50px;
     line-height: 50px;
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
 }
 
 
