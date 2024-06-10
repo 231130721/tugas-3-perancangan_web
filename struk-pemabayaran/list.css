@@ -1,0 +1,65 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+nav{
+    width: 100%;
+    margin-top: 0px;
+    padding-bottom: 50px;
+    font-weight: bold;
+}
+header{
+    text-align: center;
+}
+.main-image{
+    margin-top: 30px;
+    margin-bottom: -10px;
+    margin-left: -2%;
+}
+a{
+    text-decoration: none;
+    color: black;
+    padding: 90px;
+}
+ul li{
+    display: inline;
+    list-style: none;
+    float: left;
+    margin-bottom: 40px;
+}
+
+/* body style */
+main{
+    width: 95%;
+    padding: 20px;
+}
+.right{
+    float: right;
+    margin-top: -50px;
+    margin-left: 90%;
+    font-weight: bold;
+    color: pink;
+}
+
+.bagiin {
+    color: white;
+    border: 1px solid #43ee54;
+    text-align: center;
+    border-radius: 30px;
+    background-color: #3de37a;
+    width: 200px;
+    height: 35px;
+    line-height: 33px;
+    margin-left: 550px;
+    font-weight: bold;
+}
+
+.tebel {
+    font-weight: bold;
+    color: pink;
+}
+
+.judul {
+    color: pink;
+}
