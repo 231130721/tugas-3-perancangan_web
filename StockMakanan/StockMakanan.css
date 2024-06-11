@@ -1,7 +1,8 @@
 body{
     background-color: pink;
+    width: 100%;
 }
-a{
+/* a{ 
     text-decoration: none;
     color: black;
 }
@@ -39,11 +40,42 @@ li{list-style-type: none;
     margin-left: 80px;
     margin-right: -40px;
     margin-top: -80px;
+}*/
+nav{
+    width: 100%;
+    margin-top: 0px;
+    padding-bottom: 10px;
+}    
+.main-1{
+    width: 100%;
 }
-.stok{
-    text-align: center;
-    margin-left: -38px;
+a{
+    text-decoration: none;
+    color: black;
+    padding: 80px;
+    
+}
+ul li{
+    display: inline;
+    list-style: none;
+    float: left;
+    margin-bottom: 1%;
+    font-weight: bold;
+    margin-right: 1%;
+}
+.dapur{
+    color: white;
+    font-size: 18px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.kecil{
+    font-size: 14px;
+}
+
+.stok{
+    margin-left: 37%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 8%;
 }
 .box{
     margin-left: 230px;
@@ -84,7 +116,7 @@ img{
     width: 200px;
 }
 .besar{
-    margin-left: 380px;
+    margin-left: 32%;
 }
 .kurang{
     margin-left: -120px;
