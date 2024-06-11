@@ -94,12 +94,22 @@ img{
 .login{
     margin-top: 10px;
     background-color: white;
-    color: black;
-    box-shadow: 5px 5px 10px black;
+    color: white;
     width: 40%;
+    border-style: none;
+    background-color: black;
     border-radius: 10px;
+    font-weight: bold;
+}
+.btn{
+    color: white;
+}
+button:hover{
+    background-color: red;
+    color: black;
 }
 /* button */
 .login{
     margin-top: 90px;
 }
+

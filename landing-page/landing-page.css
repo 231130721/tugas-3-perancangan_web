@@ -20,6 +20,15 @@ ul li{
     list-style: none;
     float: left;
     margin-bottom: 40px;
+    font-size: 13px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
+.dapur{
+    color: pink;
+    font-weight: bold;
+    font-size: 18px;
+    margin-right: -25%;
 }
 article::before
 article::after{
