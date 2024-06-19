@@ -10,7 +10,7 @@ nav{
 }
 .back{
     /* left: 20px; */
-    font-size: 30px;
+    font-size: 25px;
     /* -webkit-text-stroke: 1px black; */
     color: white;
     margin-left: 25px;
@@ -39,8 +39,8 @@ main{
 button{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background-color: rgba(240, 248, 255, 0.95);
-    color: #ea874b;
-    margin: 0 34%;
+    color: black;
+    /* margin: 30%; */
     width: 450px;
     height: 70px;
     margin-bottom: 20px;
@@ -50,5 +50,6 @@ button{
     /* border-color: #ea874b; */
     border-color: #ea874b;
     border-width: 3px;
+    margin-left: 33%;
 }
 

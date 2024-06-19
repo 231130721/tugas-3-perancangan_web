@@ -107,12 +107,15 @@ aside{
     float: right;
     top: 0;
 }
-button{
+.buy{
     padding: 10px;
     border-radius: 40px;
     color: white;
     background-color: black;
     box-shadow: 5px 5px 8px white;
+}
+.arul{
+    margin-left: 100px;
 }
 .right{
     float: right;
@@ -164,20 +167,25 @@ h2{
     margin-top: 600px;
     position: static;
     text-align: center;
-    color: white;
-    height: 50px;
     line-height: 50px;
 }
 .maping{
+    margin-top: 50px;
     width: 100%;
-    height: 1000px;
+    height: 800px;
     background-color: pink;
 }
 h3{
-    background-color: pink;
+    margin-top: 50px;
     /* text-align: center; */
-    margin-left: -890px;
-    display: inline;
+    float: right;
+    margin-right: 520px;
+    display: block;
+    position: relative;
+    font-size: 40px;
+    color: white;
+    text-decoration: underline;
+    /* z-index: 99999999; */
 }
 .map{
     margin-top: 20px;
@@ -239,7 +247,36 @@ footer{
     margin-right: 25px;
     margin-top: -20px;
 }
+#arul{
+    margin-top: 620px;
+    position: absolute;
+    display: block;
+    /* align-items: center; */
+    z-index: 9999;
+    /* float: right; */
+    margin-left: 570px;
+    background-color: black;
+    color: white;
+    padding: 20px;
+    border-radius: 25px;
+    font-weight: bold;
+}
+#arul:hover{
+    background-color: white;
+    color: black;
+}
 .social{
     margin-top: -35px;
 }
 /* responsive style */
+iframe{
+    margin-top: -120px;
+    margin-bottom: 100px;
+    z-index: 9999;
+    float: left;
+    margin-left: 350px;
+    position: static;
+    
+}
+/* footer styling */
+
