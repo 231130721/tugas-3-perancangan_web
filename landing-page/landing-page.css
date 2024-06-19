@@ -1,6 +1,8 @@
 body{
     font-family: 'Times New Roman', Times, serif;
     width: 100%;
+    display: inline;
+    overflow-x: hidden;
 }
 nav{
     width: 100%;
@@ -112,7 +114,6 @@ aside{
     border-radius: 40px;
     color: white;
     background-color: black;
-    box-shadow: 5px 5px 8px white;
 }
 .arul{
     margin-left: 100px;
@@ -124,7 +125,6 @@ aside{
     color: white;
 }
 .art-header{
-    background-color: pink;
     margin-top: 10px;
     margin-bottom: 20px;
     width: 97%;
@@ -136,31 +136,50 @@ h2{
 .main-1{
     width: 100%;
 }
+.utama{
+    width: 100%;
+    display: inline-block;
+    position: relative;
+}
 .section-atas{
     width: 100%;
     display: flex;
-    box-sizing: border-box;
-    justify-content: space-between;
+    /* box-sizing: border-box;
+    justify-content: space-between; */
     margin-top: 200px;
 }
-.satu, .dua, .tiga, .empat{
-    width: 18%;
-}
-.atas{
-    margin-left: 5%;
-}
-.bawah{
-    margin-left: 30%;
-}
-.satu, .dua, .tiga, .empat{
+.satu, .dua, .tiga{
+    width: 18%;   
     display: flex;
     float: left;
     padding: 35px;
+    margin-left: 5%;
 }
-.lima, .enam{
+.tiga{
+    margin-top: -15px;
+    margin-right: none;
+}
+.atas{
+    margin-top: 10%;
+    float: none;
+    margin-left: 8%;
+}
+.bawah{
+    margin-top: 10%;
+    margin-left: 12%;
+}
+.lima{
+    margin-top: -18px;
+    margin-left: 5px;
+}
+.enam{
+    margin-top: -35px;
+    margin-left: 8px;
+}
+.empat, .lima, .enam{
     display: flex;
     float: left;
-    padding: 25px;
+    padding: 50px;
 }
 .judul{
     width: 100%;
@@ -170,7 +189,7 @@ h2{
     line-height: 50px;
 }
 .maping{
-    margin-top: 50px;
+    margin-top: -450px;
     width: 100%;
     height: 800px;
     background-color: pink;
@@ -278,5 +297,4 @@ iframe{
     position: static;
     
 }
-/* footer styling */
 
