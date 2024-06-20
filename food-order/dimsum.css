@@ -157,7 +157,14 @@ b{
     margin-left: 10%;
 }
 .bawah{
-    margin-left: 28%;
+    margin-right: 18%;
+    display: block;
+}
+.lima{
+    margin-left: -170px;
+}
+.enam{
+    margin-left: 140px;
 }
 .satu, .dua, .tiga{
     display: flex;
@@ -166,8 +173,8 @@ b{
 }
 .lima, .enam{
     /* margin-right: 100px; */
-    display: flex;
+    position: relative;
     float: left;
-    padding: 35px;
+    padding: 20px;
 }
 

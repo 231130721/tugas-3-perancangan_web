@@ -1,6 +1,7 @@
 body{
     margin: 0;
     padding: 0;
+    overflow-x: hidden;
 }
 nav{
     width: 100%;
@@ -159,6 +160,9 @@ b{
 }
 .atas{
     margin-left: 10%;
+}
+.tiga{
+    margin-top: -20px;
 }
 .bawah{
     margin-left: 28%;
