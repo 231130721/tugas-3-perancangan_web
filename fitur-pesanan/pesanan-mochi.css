@@ -9,6 +9,10 @@ img{
     width: 30px;
     height: 30px;
 }
+a{
+    text-decoration: none;
+    color: black;
+}
 h3{
     float: right;
     margin-right: 90%;

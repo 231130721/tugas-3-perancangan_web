@@ -43,6 +43,13 @@ ul li{
     padding: 5px;
     margin-top: 30px;
 }
+.left{
+    margin-left: -90px;
+}
+.right{
+    margin-top: -240px;
+    margin-left: -50px;
+}
 h1{
     float: right;
     margin-right: 80%;

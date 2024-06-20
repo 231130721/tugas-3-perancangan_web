@@ -20,6 +20,7 @@ nav{
 .pesan{
     width: 3px;
     height: 3px;
+    margin-right: 500px;
 }
 a{
     text-decoration: none;
@@ -103,6 +104,14 @@ p{
     }}
 .bottom{
     width: 100%;
+}
+.left{
+    margin-left: -90px;
+}
+.right{
+    margin-left: -10px;
+    margin-top: -148px;
+    display: block;
 }
 .pesan{
     margin-bottom: 10px;

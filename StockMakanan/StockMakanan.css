@@ -1,6 +1,7 @@
 body{
     background-color: pink;
     width: 100%;
+    overflow-x: hidden;
 }
 /* a{ 
     text-decoration: none;
@@ -61,7 +62,6 @@ ul li{
     float: left;
     margin-bottom: 1%;
     font-weight: bold;
-    margin-right: 1%;
 }
 .dapur{
     color: white;
@@ -71,7 +71,12 @@ ul li{
 .kecil{
     font-size: 14px;
 }
-
+.pesan{
+    margin-top: 4px;
+}
+.info-ngab{
+    margin-right: -11px;
+}
 .stok{
     margin-left: 37%;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;

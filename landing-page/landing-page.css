@@ -110,10 +110,14 @@ aside{
     top: 0;
 }
 .buy{
-    padding: 10px;
+    padding: 19px;
     border-radius: 40px;
-    color: white;
-    background-color: black;
+    color: black;
+    background-color: white;
+    margin-left: -90px;
+    border-style: none;
+    font-weight: bold;
+    box-shadow: 5px 2px 2px grey;
 }
 .arul{
     margin-left: 100px;
