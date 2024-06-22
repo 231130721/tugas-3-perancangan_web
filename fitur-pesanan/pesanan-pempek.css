@@ -52,13 +52,12 @@ p{
     color: red;
 }
 .risoles-img{
-    margin-top: -20px;
-    width: 200px;
+    width: 250px;
     height: 200px;
 }   
 .two{
     width: 95%;
-    margin: 120px auto;
+    margin: 0 auto;
 }
 .two-right{
     margin-right: 0;
@@ -66,7 +65,7 @@ p{
 }
 .risoles{
     margin-top: 10px;
-    margin-right: 860px;
+    margin-right: 835px;
     position: relative;
 }
 .harga{
@@ -98,13 +97,11 @@ p{
     margin-left: 2.5%;
     margin-right: 2.5%;
     height: 350px;
-    /* margin-bottom: 250px; */
     font-weight: bolder;
     border-radius: 10px;
     box-shadow: 10px 2px grey;
 }
 .judul{
-    /* margin-top: 50px; */
     /* text-align: center; */
     float: left;
 }
@@ -120,7 +117,7 @@ p{
 /* method styling */
 .method{
     width: 95%;
-    margin: 80px auto;
+    margin: 0 auto;
 }
 .method > h2{
     font-size: 30px;

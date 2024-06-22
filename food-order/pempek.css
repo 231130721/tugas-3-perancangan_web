@@ -50,6 +50,14 @@ h1{
     font-weight: bolder;
     margin-top: -130px;
 }
+.left{
+    margin-left: -90px;
+}
+.right{
+    margin-top: -150px;
+    margin-left: -30px;
+    display: block;
+}
 p{
     float: right;
     /* position: relative; */

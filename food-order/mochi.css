@@ -47,8 +47,9 @@ ul li{
     margin-left: -90px;
 }
 .right{
-    margin-top: -240px;
-    margin-left: -50px;
+    margin-top: -150px;
+    display: block;
+    margin-left: -20px;
 }
 h1{
     float: right;
