@@ -23,6 +23,13 @@ ul li{
     float: left;
     margin-bottom: 40px;
 }
+.dapur{
+    font-style: italic;
+    color: pink;
+    font-size: 21px;
+    margin-right: -25%;
+    font-family: 'Times New Roman', Times, serif;
+}
 /* header section style */
 .header{
     display: block;
@@ -173,7 +180,7 @@ b{
     margin-top: -20px;
 }
 .bawah{
-    margin-left: 28%;
+    margin-left: 22%;
 }
 .satu, .dua, .tiga{
     display: flex;
@@ -184,6 +191,6 @@ b{
     /* margin-right: 100px; */
     display: flex;
     float: left;
-    padding: 35px;
+    padding: 80px;
 }
 

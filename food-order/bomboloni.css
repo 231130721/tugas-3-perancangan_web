@@ -32,6 +32,13 @@ ul li{
     float: left;
     margin-bottom: 40px;
 }
+.dapur{
+    font-style: italic;
+    color: pink;
+    font-size: 21px;
+    margin-right: -25%;
+    font-family: 'Times New Roman', Times, serif;
+}
 /* header section style */
 .header{
     display: block;
@@ -106,14 +113,13 @@ p{
     width: 100%;
 }
 .left{
-    margin-left: -180px;
+    margin-left: -70px;
     display: block;
-    margin-top: -200px;
+    margin-top: -130px;
 }
 .right{
-    margin-top: -190px;
     display: block;
-    margin-top: -150px;
+    margin-top: -240px;
 }
 .pesan{
     margin-bottom: 10px;

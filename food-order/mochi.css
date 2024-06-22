@@ -11,8 +11,9 @@ nav{
 .main-image{
     margin-top: 30px;
     margin-bottom: -10px;
-    margin-left: -2%;
+    margin-left: -30px;
 }
+
 a{
     text-decoration: none;
     color: black;
@@ -23,6 +24,13 @@ ul li{
     list-style: none;
     float: left;
     margin-bottom: 40px;
+}
+.dapur{
+    font-style: italic;
+    color: pink;
+    font-size: 20px;
+    margin-right: -25%;
+    font-family: 'Times New Roman', Times, serif;
 }
 /* header section style */
 .header{
@@ -173,7 +181,7 @@ b{
     margin-left: 10%;
 }
 .bawah{
-    margin-left: 28%;
+    margin-left: 22%;
 }
 .satu, .dua, .tiga{
     display: flex;
@@ -187,6 +195,6 @@ b{
     /* margin-right: 100px; */
     display: flex;
     float: left;
-    padding: 35px;
+    padding: 80px;
 }
 

@@ -17,6 +17,13 @@ nav{
     width: 190px;
     height: 180px;
 }
+.dapur{
+    font-style: italic;
+    color: pink;
+    font-size: 21px;
+    margin-right: -25%;
+    font-family: 'Times New Roman', Times, serif;
+}
 .pesan{
     width: 3px;
     height: 3px;

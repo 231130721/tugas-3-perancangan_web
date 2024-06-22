@@ -30,6 +30,13 @@ ul li{
     float: left;
     margin-bottom: 40px;
 }
+.dapur{
+    font-style: italic;
+    color: pink;
+    font-size: 21px;
+    margin-right: -25%;
+    font-family: 'Times New Roman', Times, serif;
+}
 /* header section style */
 .header{
     display: block;
@@ -170,12 +177,12 @@ b{
 }
 .bawah{
     float: left;
-    margin-left: 35%;
+    margin-left: 25%;
     display: block;
     /* padding: 20px; */
 }
 .lima{
-    margin-left: -110px;
+    /* margin-left: -110px; */
 }
 .enam{
     margin-left: 110px;

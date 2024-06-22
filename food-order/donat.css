@@ -14,6 +14,13 @@ nav{
     margin-bottom: -10px;
     margin-left: -1%;
 }
+.dapur{
+    font-style: italic;
+    color: pink;
+    font-size: 21px;
+    margin-right: -25%;
+    font-family: 'Times New Roman', Times, serif;
+}
 .left{
     margin-left: -95px;
 }
@@ -172,7 +179,7 @@ b{
     margin-left: 10%;
 }
 .bawah{
-    margin-left: 28%;
+    margin-left: 22%;
 }
 .satu, .dua, .tiga{
     display: flex;
@@ -186,6 +193,6 @@ b{
     /* margin-right: 100px; */
     display: flex;
     float: left;
-    padding: 35px;
+    padding: 75px;
 }
 
