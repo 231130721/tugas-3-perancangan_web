@@ -15,8 +15,11 @@ body{
     padding: -5px;
 }
 .dapur{
-    color: white;
-    margin-left: 550px;
+    font-style: italic;
+    color: pink;
+    font-size: 21px;
+    margin-right: -25%;
+    font-family: 'Times New Roman', Times, serif;
 }
 li{list-style-type: none;
     margin: auto;
@@ -125,4 +128,11 @@ img{
 }
 .kurang{
     margin-left: -120px;
+}
+.dapur{
+    font-style: italic;
+    color: white;
+    font-size: 20px;
+    margin-right: -25%;
+    font-family: 'Times New Roman', Times, serif;
 }
