@@ -197,4 +197,8 @@ b{
     float: left;
     padding: 80px;
 }
+/* root */
+:root{
+    max-width: 1440px;
+    }
 

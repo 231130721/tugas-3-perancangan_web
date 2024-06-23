@@ -48,9 +48,17 @@ li{list-style-type: none;
     font-weight: bold;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+hr{
+    border: 2px solid white;
+    width: 100%;
+}
+.back:hover{
+    color: white;
+}
 .riwayat{
-    text-align: center;
-    margin-left: -38px;
+    margin-left: 41%;
+    /* text-align: center; */
+    /* margin-left: -38px; */
 }
 .tambahan{
     margin-left: 80px;
